@@ -7,5 +7,7 @@ This project is a basic calculator application built using Python's Tkinter libr
 - Clear button to reset the current input.
 - Equal button to calculate the result based on the selected operation.
 
-#Screenshots
+# Screenshots
+![Screenshot 1](Screenshots/Calculator.JPG)
+![Screenshot 1](Screenshots/Calculator2.JPG)
 
